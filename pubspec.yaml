@@ -1,0 +1,29 @@
+name: gemini_chat_bot
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.1.0
+  google_generative_ai: ^0.2.2
+  image_picker: ^1.0.7
+  firebase_core: ^2.27.1
+  cloud_firestore: ^4.15.9
+  firebase_storage: ^11.6.10
+  firebase_auth: ^4.17.9
+  google_sign_in: ^6.2.1
+  flutter_riverpod: ^2.5.1
+  uuid: ^4.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
