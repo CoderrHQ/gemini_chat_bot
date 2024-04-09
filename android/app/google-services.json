@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "212640563016",
+    "project_id": "gemini-chat-bot-ad296",
+    "storage_bucket": "gemini-chat-bot-ad296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212640563016:android:d48810093ff1a32667bd7d",
+        "android_client_info": {
+          "package_name": "com.example.gemini_chat_bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212640563016-vh3qm1vhve15opdm70bbmq1vlk9f0891.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi3MELT3u4yY14uTVCYO1vDpm9PkLX_-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212640563016-vh3qm1vhve15opdm70bbmq1vlk9f0891.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212640563016-eledg19b7lchhlsvmatjskntg52c2aeg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.geminiChatBot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
